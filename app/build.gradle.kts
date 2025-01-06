@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.techlads.cameraexample"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.techlads.cameraexample"
